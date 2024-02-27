@@ -9,9 +9,10 @@
   <h2> Credits </h2>
   I want to thank those people from whom I had taken help or used their resources. <br>
   Github <br>
-  1. <a href = "https://github.com/andykras">Andrey Krasnov</a>
-     His work: <a href = "https://github.com/andykras/OT60">OT60</a>
-  2. <a href = "https://github.com/ytiurin">Eugene Tiurin</a>
+  1. <a href = "https://github.com/andykras">Andrey Krasnov</a> <br>
+     His work: <a href = "https://github.com/andykras/OT60">OT60</a> <br>
+  2. <a href = "https://github.com/ytiurin">Eugene Tiurin</a> <br>
+     His work: <a href>
 </p>
 <p>
 Tetris ® & © 1985~2024 Tetris Holding. <br>
@@ -22,7 +23,8 @@ Tetris Logo Design by Roger Dean. <br>
 All Rights Reserved. <br>
 All other trademarks are the property of their respective owners.
 </p>
- <p>
+<p>
+  <h2> Conclusion </h2>
   Release Date: 27.02.24
 </p>
 <p>
