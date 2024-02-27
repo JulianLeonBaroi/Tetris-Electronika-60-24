@@ -15,13 +15,14 @@
      His work: <a href></a>
 </p>
 <p>
-Tetris ® & © 1985~2024 Tetris Holding. <br>
-Tetris logos, Tetris theme song and Tetriminos are trademarks of Tetris Holding. <br>
-The Tetris trade dress is owned by Tetris Holding. Licensed to The Tetris Company. <br>
-Tetris Game Design by Alexey Pajitnov. <br>
-Tetris Logo Design by Roger Dean. <br>
-All Rights Reserved. <br>
-All other trademarks are the property of their respective owners.
+  <h2> Credits </h2>
+  Tetris ® & © 1985~2024 Tetris Holding. <br>
+  Tetris logos, Tetris theme song and Tetriminos are trademarks of Tetris Holding. <br>
+  The Tetris trade dress is owned by Tetris Holding. Licensed to The Tetris Company. <br>
+  Tetris Game Design by Alexey Pajitnov. <br>
+  Tetris Logo Design by Roger Dean. <br>
+  All Rights Reserved. <br>
+  All other trademarks are the property of their respective owners.
 </p>
 <p>
   <h2> Conclusion </h2>
