@@ -14,7 +14,7 @@
 </p>
 <p>
   <h2> Credits </h2>
-  I want to thank those people from whom I had taken help or used their resources. <br>
+  I want to thank those people from whom I had taken help or used their resources. I also want to mention internet materials.<br>
   <b>Github</b> <br>
   1. <a href = "https://github.com/andykras">Andrey Krasnov</a> <br>
      His work: <a href = "https://github.com/andykras/OT60">OT60</a> <br>
@@ -23,7 +23,9 @@
   <b>My College Teachers</b> <br>
   1. <a href = "https://ndc.edu.bd/faculty/14)">Anisul Sir</a> <br>
   2. <a href = "https://ndc.edu.bd/faculty/14)">Forhad Sir</a> <br>
-  
+  <b>Internet Materials</b> <br>
+  1. <a href = "https://en.wikipedia.org/wiki/Tetris">Tetris® Wikipedia</a>
+  2. <a href = "https://chat.openai.com">ChatGPT 3.5</a>
 </p>
 <p>
   <h2> Copyrights </h2>
