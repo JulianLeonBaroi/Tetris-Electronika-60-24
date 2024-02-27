@@ -11,7 +11,7 @@
   Github <br>
   1. <a href = "https://github.com/andykras">Andrey Krasnov</a>
      His work: <a href = "https://github.com/andykras/OT60">OT60</a>
-  2. <a href = "https://github.com/ytiurin">Eugene Tiurin<>
+  2. <a href = "https://github.com/ytiurin">Eugene Tiurin</a>
 </p>
 <p>
 Tetris ® & © 1985~2024 Tetris Holding. <br>
