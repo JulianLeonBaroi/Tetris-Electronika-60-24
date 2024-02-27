@@ -15,7 +15,7 @@
      His work: <a href></a>
 </p>
 <p>
-  <h2> Credits </h2>
+  <h2> Copyrights </h2>
   Tetris ® & © 1985~2024 Tetris Holding. <br>
   Tetris logos, Tetris theme song and Tetriminos are trademarks of Tetris Holding. <br>
   The Tetris trade dress is owned by Tetris Holding. Licensed to The Tetris Company. <br>
