@@ -10,7 +10,8 @@
   I want to thank those people from whom I had taken help or used their resources. <br>
   Github <br>
   1. <a href = "https://github.com/andykras">Andrey Krasnov</a>
-     
+     His work: <a href = "https://github.com/andykras/OT60">OT60</a>
+  2. <a href = "https://github.com/ytiurin">Eugene Tiurin<>
 </p>
 <p>
 Tetris ® & © 1985~2024 Tetris Holding. <br>
@@ -21,12 +22,12 @@ Tetris Logo Design by Roger Dean. <br>
 All Rights Reserved. <br>
 All other trademarks are the property of their respective owners.
 </p>
-<p>
+ <p>
   Release Date: 27.02.24
 </p>
 <p>
   [N.B.: PLEASE, DO NOT COPY. You can take inspiration and make your own.]
-</p>
+</p>   
 <br>
 <p>
   © 2024 Julian Leon Baroi. All rights reserved.
