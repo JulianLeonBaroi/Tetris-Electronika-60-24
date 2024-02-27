@@ -7,10 +7,11 @@
   to give this to my elder sister as her birthday gift on her birthday.
 </p>
 <p>
-  Watch the official movie of this game - Tetris™ on <a href = "https://tv.apple.com/us/movie/tetris/umc.cmc.4evmgcam356pzgxs2l7a18d7b">Apple TV+</a>
+  Watch the official movie of this game - Tetris™ on <a href = "https://tv.apple.com/us/movie/tetris/umc.cmc.4evmgcam356pzgxs2l7a18d7b">Apple TV+</a>. Before that, I suggest you to watch 
+  <a href = "https://youtu.be/_fQtxKmgJC8?si=krlQru6XOqgcrABq">"The Story of Tetris®"</a> from the <a href = "https://www.youtube.com/@GamingHistorian">Gaming Historian</a> channel.
 </p>
 <p>
-  Don't forget to celebrate World Tetris Day every year on June 6<sup>th</sup>. One of the greatest early video games is turning 40 years old this year (2024).
+  Don't forget to celebrate "World Tetris Day" every year on June 6<sup>th</sup>. One of the greatest early video games is turning 40 years old this year (2024).
 </p>
 <p>
   <h2> Credits </h2>
