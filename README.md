@@ -24,7 +24,7 @@
   1. <a href = "https://ndc.edu.bd/faculty/14)">Anisul Sir</a> <br>
   2. <a href = "https://ndc.edu.bd/faculty/14)">Forhad Sir</a> <br>
   <b>Internet Materials</b> <br>
-  1. <a href = "https://en.wikipedia.org/wiki/Tetris">Tetris® Wikipedia</a>
+  1. <a href = "https://en.wikipedia.org/wiki/Tetris">Tetris® Wikipedia</a> <br>
   2. <a href = "https://chat.openai.com">ChatGPT 3.5</a>
 </p>
 <p>
