@@ -24,7 +24,6 @@ All Rights Reserved. <br>
 All other trademarks are the property of their respective owners.
 </p>
 <p>
-  <h2> Conclusion </h2>
   Release Date: 27.02.24
 </p>
 <p>
