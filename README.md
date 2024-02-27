@@ -21,6 +21,8 @@
   2. <a href = "https://github.com/ytiurin">Eugene Tiurin</a> <br>
      His work: <a href = "https://github.com/ytiurin/tetris">tetris</a> <br>
   <b>My College Teachers</b> <br>
+  1. <a href = "https://ndc.edu.bd/faculty/14)">Anisul Sir</a> <br>
+  2. <a href = "https://ndc.edu.bd/faculty/14)">Forhad Sir</a> <br>
   
 </p>
 <p>
