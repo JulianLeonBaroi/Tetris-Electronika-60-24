@@ -6,9 +6,6 @@
   <a href = "https://en.wikipedia.org/wiki/Alexey_Pajitnov">Alexey Pajitnov</a> and <a href = "https://en.wikipedia.org/wiki/Henk_Rogers">Henk Rogers</a>.
 </p>
 <p>
-  Release Date: 26.02.24
-</p>
-<p>
 Tetris ® & © 1985~2024 Tetris Holding. <br>
 Tetris logos, Tetris theme song and Tetriminos are trademarks of Tetris Holding. <br>
 The Tetris trade dress is owned by Tetris Holding. Licensed to The Tetris Company. <br>
@@ -18,9 +15,12 @@ All Rights Reserved. <br>
 All other trademarks are the property of their respective owners.
 </p>
 <p>
+  Release Date: 27.02.24
+</p>
+<p>
   [N.B.: PLEASE, DO NOT COPY. You can take inspiration and make your own.]
 </p>
 <br>
 <p>
-  © 2023 Julian Leon Baroi. All rights reserved.
+  © 2024 Julian Leon Baroi. All rights reserved.
 </p>
