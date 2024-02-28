@@ -1,0 +1,50 @@
+Tetris® Electronika 60 (1985) Image Recreation (From Wikipedia: Tetris)
+
+Tetris®
+Link: https://en.wikipedia.org/wiki/Tetris
+
+  ________________________________________________________________________________
+ |                           9 6 0 0  0 0 0 0  0 0 1 0  0 0 0 0  0 0 0 0  01 26 31|
+ |                                                                                |
+ |ПОЛНЫХ СТРОК:  2         <! . . . . . . . . . .!>                               |
+ |УРОВЕНЬ:       3         <! . . . . . . . . . .!>   7: НАЛЕВО   9: НАПРАВО      |
+ |  СЧЕТ:  304             <! . . . . . . . . . .!>        8:ПОВОРОТ              |
+ |                         <! . . . . . . . . . .!>   4:УСКОРИТЬ  5:СБРОСИТЬ      |
+ |                         <! . . . . . . . . . .!>   1: ПОКАЗАТЬ  СЛЕДУЮЩУЮ      |
+ |                         <! . . . . . . . . . .!>   0:  СТЕРЕТЬ ЭТОТ ТЕКСТ      |
+ |                         <! . . . .▮▮▮▮▮▮ . . .!>     ПРОБЕЛ - СБРОСИТЬ         |
+ |                         <! . . . . . .▮▮ . . .!>                               |
+ |                         <! . . . . . . . . . .!>                               |
+ |                         <! . . . . . . . . . .!>                               |
+ |                  ▮▮▮▮▮▮ <! . . . . . . . . . .!>                               |
+ |                    ▮▮  <! . . . . . . . . . .!>                               |
+ |                         <! . . . . . . . . . .!>                               |
+ |                         <! . . . .▮▮▮▮ . . . .!>                               |
+ |                         <! . . . .▮▮▮▮ . . . .!>                               |
+ |                         <! . . .▮▮▮▮▮▮▮▮ . . .!>                               |
+ |                         <! .▮▮▮▮ .▮▮▮▮▮▮ . .▮▮!>                               |
+ |                         <! .▮▮▮▮ .▮▮ . . .▮▮▮▮!>                               |
+ |                         <!▮▮▮▮▮▮ .▮▮▮▮▮▮▮▮▮▮▮▮!>                               |
+ |                         <!▮▮▮▮▮▮▮▮ . .▮▮▮▮▮▮▮▮!>                               |
+ |                         <!====================!>                               |
+ |                           \/\/\/\/\/\/\/\/\/\/                                 |
+ |                                                                                |
+ |________________________________________________________________________________|
+
+
+ The first version of Tetris, completed in 1985, run on an emulator of the Electronika 60!
+ 
+ The screenshot of the very first version of Tetris game.png
+ Alexey Pajitnov - tetrisconcept.net
+
+ Link: https://en.wikipedia.org/wiki/Tetris#/media/File:Tetris-VeryFirstVersion.png
+
+
+ Tetris ® & © 1985~2024 Tetris Holding.
+ Tetris logos, Tetris theme song and Tetriminos are trademarks of Tetris Holding.
+ The Tetris trade dress is owned by Tetris Holding. Licensed to The Tetris Company.
+ Tetris Game Design by Alexey Pajitnov.
+ All Rights Reserved.
+
+
+ © 2024 Julian Leon Baroi. All rights reserved.

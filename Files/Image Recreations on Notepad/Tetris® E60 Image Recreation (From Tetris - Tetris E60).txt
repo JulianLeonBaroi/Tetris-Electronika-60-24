@@ -1,0 +1,90 @@
+Tetris® E60 Image Recreation (From Tetris®: Tetris® E60)
+
+Tetris® E60
+Link: https://tetris.com/tetris-e60/
+
+  __________________________________________________________________________________________________________________
+ |                                                                                                                  |
+ |                                                                                                                  |
+ |                                                                                                                  |
+ |                                                                                                                  |
+ |                                                                                                                  |
+ |    [][][][][][][][][]  [][][][][][][][][]  [][][][][][][][][]  [][][][][][][][][]  [][][]  [][][][][][][][][]    |
+ |    [][][][][][][][][]  [][][][][][][][][]  [][][][][][][][][]  [][][][][][][][][]  [][][]  [][][][][][][][][]    |
+ |          [][][]        [][][]                    [][][]        [][][]      [][][]  [][][]  [][][]                |
+ |          [][][]        [][][]                    [][][]        [][][]      [][][]  [][][]  [][][]                |
+ |          [][][]        [][][][][][]              [][][]        [][][][][][]        [][][]  [][][][][][][][][]    |
+ |          [][][]        [][][][][][]              [][][]        [][][][][][]        [][][]  [][][][][][][][][]    |
+ |          [][][]        [][][]                    [][][]        [][][]      [][][]  [][][]              [][][]    |
+ |          [][][]        [][][]                    [][][]        [][][]      [][][]  [][][]              [][][]    |
+ |          [][][]        [][][][][][][][][]        [][][]        [][][]      [][][]  [][][]  [][][][][][][][][]    |
+ |          [][][]        [][][][][][][][][]        [][][]        [][][]      [][][]  [][][]  [][][][][][][][][]    |
+ |                                                                                                                  |
+ |                                                                                                                  |
+ |                                           ______________________________                                         |
+ |                                          |                              |                                        |
+ |                                          |             PLAY             |                                        |
+ |                                          |______________________________|                                        |
+ |                                           ______________________________                                         |
+ |                                          |                              |                                        |
+ |                                          |            OPTIONS           |                                        |
+ |                                          |______________________________|                                        |
+ |                                                                                                                  |
+ |                                                                                                                  |
+ |                                                                                                                  |
+ |    > WELCOME USER ALEXEY P.                                                                                      |
+ |    > WELCOME USER HENK R.                                                                                        |
+ |    >                                                                                                             |
+ |    > TETRIS ® & © 1985~2024 TETRIS HOLDING.                                                                      |
+ |    > TETRIS LOGOS AND TETRIMINOS ARE TRADEMARKS OF TETRIS HOLDING.                                               |
+ |    > THE TETRIS TRADE DRESS IS OWNED BY TETRIS HOLDING.                                                          |
+ |    > LICENSED TO THE TETRIS COMPANY.                                                                             |
+ |    > TETRIS GAME DESIGN BY ALEXEY PAJITNOV.                                                                      |
+ |    > ALl RIGHTS RESERVED.                                                                                        |
+ |__________________________________________________________________________________________________________________|
+
+  _________________________________________________________________
+ |                                                                 |
+ |ПОЛНЫХ СТРОК:  2 <! . . . . . . . . . .!>                        |
+ |УРОВЕНЬ:       3 <! . . . . . . . . . .!>  7: НАЛЕВО   9: НАПРАВО|
+ |  СЧЕТ:  304     <! . . . . . . . . . .!>       8:ПОВОРОТ        |
+ |                 <! . . . . . . . . . .!>  4:УСКОРИТЬ  5:СБРОСИТЬ|
+ |                 <! . . . . . . . . . .!>  1: ПОКАЗАТЬ  СЛЕДУЮЩУЮ|
+ |                 <! . . . . . . . . . .!>  0:  СТЕРЕТЬ ЭТОТ ТЕКСТ|
+ |                 <! . . . .[][][] . . .!>    ПРОБЕЛ - СБРОСИТЬ   |
+ |                 <! . . . . . .[] . . .!>                        |
+ |                 <! . . . . . . . . . .!>                        |
+ |                 <! . . . . . . . . . .!>                        |
+ |          [][][] <! . . . . . . . . . .!>                        |
+ |            []   <! . . . . . . . . . .!>                        |
+ |                 <! . . . . . . . . . .!>                        |
+ |                 <! . . . .[][] . . . .!>                        |
+ |                 <! . . . .[][] . . . .!>                        |
+ |                 <! . . .[][][][] . . .!>                        |
+ |                 <! .[][] .[][][] . .[]!>                        |
+ |                 <! .[][] .[] . . .[][]!>                        |
+ |                 <![][][] .[][][][][][]!>                        |
+ |                 <![][][][] . .[][][][]!>                        |
+ |                 <!====================!>                        |
+ |                   \/\/\/\/\/\/\/\/\/\/                          |
+ |_________________________________________________________________|
+
+
+ The game you couldn't put down. The story you couldn't make up.
+
+ ABOUT TETRIS® E60
+
+ To celebrate the launch of Tetris™, the new Apple Original Film on Apple TV+, we have released a special edition of the Tetris® game on Tetris.com! The Tetris
+ game was created by Alexey Pajitnov in 1984 on an Electronika 60 computer. Due to the limitations of the device at the time, there weren’t graphic capabilities so
+ Alexey  designed the game using square brackets. This version of the game pays tribute to his original creation and uses classic game settings. Now you can
+ experience what  it was like to play the very first version of Tetris!
+
+
+ Tetris ® & © 1985~2024 Tetris Holding.
+ Tetris logos, Tetris theme song and Tetriminos are trademarks of Tetris Holding.
+ The Tetris trade dress is owned by Tetris Holding. Licensed to The Tetris Company.
+ Tetris Game Design by Alexey Pajitnov.
+ All Rights Reserved. All other trademarks are the property of their respective owners.
+
+
+ © 2024 Julian Leon Baroi. All rights reserved.
