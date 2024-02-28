@@ -1,0 +1,46 @@
+Project-2
+
+Name                : Tetris® Electronika 60 '24
+Version             : 1.0.0
+Filetype            : .exe
+Programming Language: C
+Programming Software: Code::Blocks
+
+Developed By        : Julian Leon Baroi
+Development Time    : 11.01.24 - 13.01.24 (3 Days)
+Edited On           : 24.01.24, 27.01.24, 28.01.24, 11.02.24, 20.02.24 & 21.02.24
+Release Date & Time : 27.02.24
+
+[N.B.: For "Encoding Changed" problem (UTF-8) in Code::Blocks, it is not showed in Russian language correctly. It is the English Edition.]
+
+Drafts
+Name                : Tetris® Electronika 60 '24 & Tetris® Electronika 60 '24 (English Edition)
+Creation Date & Time: 12.01.24 - 13.01.24 (2 Days)
+Edited On           : 16.01.24, 14.02.24, 19.02.24, 20.02.24 & 21.02.24
+Resources
+Name                : Tetris® (1985), Tetris® Electronika 60 Original - Sergei Frolov [YT] & Tetris® Electronika 60 Emulation - Old Classic Retro Gaming [YT]
+Collected On        : 08.01.24
+Edited On           : 13.01.24 & 14.02.24
+
+[N.B.: Drafts and internet materials are used for this project.
+ Internet Materials
+ 1. Wikipedia: Tetris (https://en.wikipedia.org/wiki/Tetris) & Tetris, Electronika 60 (https://en.wikipedia.org/wiki/Tetris#/media/File:Tetris-VeryFirstVersion.png)
+ 2. Andrey Krasnov (andykras): OT60 (https://github.com/andykras/OT60)
+ 3. Eugene Tiurin (ytiurin): tetris (https://github.com/ytiurin/tetris)]
+
+Image Recreation on Notepad
+1. Name                : Tetris® Electronika 60 (1985) Image Recreation (From Wikipedia - Tetris®)
+   Creation Date       : 13.01.24
+   Edited On           : 14.02.24 & 21.02.24
+
+2. Name:               : Tetris® E60 Image Recreation (From Tetris®: Tetris® E60)
+   Creation Date & Time: 15.01.24 - 16.01.24 (1 Day and 1 hour)
+   Edited On           : 14.02.24 & 21.02.24
+
+Behind the Scenes
+Name                   : Behind the Scenes (Tetris® Electronika 60 '24)
+Creation Date & Time   : 27.01.24 - 28.01.24 (2 Days)
+Edited On              : 29.01.24, 03.02.24, 11.02.24, 14.02.24, 17.02.24, 18.02.24, 21.02.24 & 26.02.24
+
+
+© 2024 Julian Leon Baroi. All rights reserved.
