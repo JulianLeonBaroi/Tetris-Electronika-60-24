@@ -17,6 +17,9 @@
   href = "https://tetris.com/tetris-e60/">Tetris® E60</a> on the official website of Tetris®.
 </p>
 <p>
+  <b>The game you couldn't put down. The story you couldn't make up.</b>
+</p>
+<p>
   Don't forget to celebrate "World Tetris Day" every year on June 6<sup>th</sup>. One of the greatest early video games is turning 40 years old this year (2024).
 </p>
 <p>
