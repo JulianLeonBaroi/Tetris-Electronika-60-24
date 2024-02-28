@@ -1,0 +1,266 @@
+Tetris® Electronika 60 '24
+--------------------------
+
+
+27.01.24 (11:19 PM - 03:03 AM (28.01.24))
+
+
+This is the story behind the program "Tetris® Electronika 60 '24".
+
+I am a big fan of Tetris®. I couldn't play it on Gameboy or NES but I will try to play all the versions (consoles, home computers, mobile phones (Java), and Android) through emulators. I first played this game on 9999 in 1, but that wasn't the regular portrait version ("Brick Game 9999 in 1", E-9999). It had a slightly bigger screen compared to the regular portrait version. I think the name of that was "Window 2000 in 1" as I found the information on the internet. The colour of that console was blue. It was gifted by my parents on my birthday in 2009. It was my first console. So many memories. However, probably the next day I was playing with it and accidentally it fell on the floor and broke the joint part (back part) of the screen. Then, I picked up the console and I couldn't what to do. Then, when I was checking, I saw that nothing was showing on the display. I became upset and it was thrown in the dustbin. I miss that console a lot. In 2019, I found the same version of that console but a few days later, I saw that it was not available in that shop. Then, I found the regular portrait version ("9999 in 1 Brick Game", E-9999) in another shop and bought it on 14.06.2019. I still trying to find that computer version but couldn't find it in my country (Bangladesh). I played another unofficial version of Tetris® on Maximus S8 (my elder sister's previous phone) in 2019. Then, last year (2022) I also played the Gameloft version on my phone (present), Nokia 105 4th Edition (2019). I first saw this version in the store of Nokia 225 (my mom's previous phone) probably in 2020 or 2021. I was excited at that time that finally, a Tetris® game from Gameloft (one of my favorite video game developers).
+
+I also like to mention that, I first saw the Tetris® logo in the "Emirates" magazine that I have with me. That magazine was given by two Sisters (Nuns) in 2013. In 2013, my maternal grandmother was ill and stayed in our house. So, one day two Sisters (Nuns) came to see her. At that time, they gave me that magazine. My maternal grandmother died that year (2013). Rest in peace (R.I.P.). Anyway, that magazine is still with me. It's a precious gift to me. That magazine is kind of 2 in 1. One is on one side and another is on the other side but upside down. You can say, there is no back cover. Only front covers. The names are - "e-kids" and "3,2,1...". The fun fact is - it's issue 1. The Tetris® logo was in "e-kids" magazine, page no. 9. Me and my elder sister together solved the whole magazine (actually, she had solved most parts of both parts of that magazine for me.). Those are memories I will not forget.
+
+I didn't remember that console when I was planning to make the program this year, I remember this now when writing this "Behind the Scenes". What will I do? It automatically came to my mind that I would start with my childhood memories. Anyways, how the idea of the program came to my mind, now I will tell you all about that.
+
+Last year, I saw the trailer of the Tetris™ movie (one week before release) and I became excited. After that, I found out that, a special version of Tetris® (Electronika 60) was released on tetris.com (Tetris® E60) and then I started to find the original version and found a web app on a GitHub page. The name of the person who made that is Eugene Tiurin and his GitHub page name is ytiurin (https://github.com/ytiurin). He had made that web app of the original game. I bookmarked that web app. Later, I found another GitHub page. The person's name is Andrey Krasnov and his GitHub page name is andykras (https://github.com/andykras). He just recreated an image in the text of the original game. I thought I could copy and paste it on a c file, make a C program, and then I will show it to my sister. Then, I copied that text and paste it on a text file, nothing else. It was like testing. Then, I deleted that text file. Then, this year on 7 January, I was watching "The Story of Tetris" by "Gaming Historian" on YouTube (I also read the Wikipedia page of Tetris® varients beside the video.). Then, I searched on YouTube, how to download and play the original Tetris® (Electronika 60) on my PC. I found two videos. One is a tutorial and another is an emulation video (later, I also found a GitHub page(https://github.com/corkscrewey/soviet-tetris) where the process was written about how to emulate it on PC - the resources from this page are related to my program though).
+
+Then, I decided, will use all these resources to make that C program I was thinking previously last year gift it to my elder sister on her birthday, this year on 27 February because last year, I made a simple C program (HBD to Lisha). That program was very simple - "she will type 27 and click the Enter key. Then, the birthday song and a  birthday cake image in the text print out in the program". So, this year, I wanted to make a little more big program from that. "Tetris E60" will be the best choice. So, I collected resources on that same day at night (8 January 2024).
+
+The resources are below:
+1. Tetris® (Electronika 60) image from Wikipedia
+2. Original gameplay video of Tetris® (Electronika 60) from Sergei Frolov's YouTube channel
+3. Emulation video of Tetris® (Electronika 60) from Old Classic Retro Gaming YouTube channel
+4. GitHub pages: andykras - OT60 & ytiurin - tetris
+
+The journey started on 11 January 2024 (in the evening).
+
+
+28.01.24 (11:45 PM - 04:44 AM (29.01.24))
+
+
+My previous idea was simple. The user will type the word "TETRIS" in capital letters. Then, press the Enter key and the image in the text will print out (Tetris® Electronika 60 image from Wikipedia). But, I modified that idea. What about, the user typing his/her username and pressing the Enter key? Then the user will be welcomed and it will say "Just type out its name!". Then, type the "TETRIS" word and hit the Enter key. The title will come. The user will type the level number and then press the Enter key. The game will show like - it has started and it will look like you have played for a while and scored 2024. Then, game over. Then, "YOUR NAME?" will show below on the left side. The user will type his name and then that name and score will show on the scoreboard. Just wanted to bring the original feel of the game. I also planned that I would first make the original edition (Russian) and then the English edition. So, I started coding and the first problem came.
+
+Problem-1
+I wanted to take only ten characters from the user. If the user types more than that, it will not print out in the program. I also used an array. But, after typing the code and testing it, I found out that, it was printing more than ten characters that I typed. So, I used Google and found the answer and solved it. In scanf, I wrote %10s. Then, the next problem began.
+
+Problem-2
+I will describe it below.
+
+I wanted the input in the middle but C reads line by line.
+
+Just type out its name!
+|
+Note: Use capital only.
+
+Instead of that, it showed like this below.
+
+Just type out its name!
+Note: Use capital only. |
+
+The cursor was at the end of the note line but I didn't want it like this. So, I searched the internet but couldn't find any answers that I wanted for my program. So, I kept like that and thought that I ask my teacher (Anisul Sir, everyone calls him AI(Anisul Islam) to have fun.) at college, and then I would code further. So, what did is, the next parts are like printf. So, I thought rather I would make a draft of the image in text in a text file. I will not waste time. So, I watched the original game video and emulation video of Tetris® (Electronika 60) carefully, and using the GitHub resources that I copied in the text file I made the draft images. I made two drafts. One is original Russian and another is English. I finished it approximately at 06:30 AM (12 January 2024) in the morning. The next day, I asked one of the ICT teachers (Anisul Sir) at my college and he said that I couldn't do this in C. So, after some time I got another idea. If I write like this below, then the problem is solved.
+
+Just type out its name!
+Note: Use capital only.
+Input: |
+
+So, I came home from college and did like that. So, the problem is solved. Then, the next problem began.
+
+Problem-3
+Now, the user will type the "TETRIS". So, I used the same technique that I did in the "HBD to Lisha". If the user does not type exactly that word then, an error message will show up and it keep telling the user to type the name. Like a loop.
+
+if(name == "TETRIS")
+
+But, it didn't work. I tested and found out that if I exactly type "TETRIS", it also shows the same error message. It's because these are characters, not numbers. So, I searched the internet and found out the answers. I wrote this -
+
+if(strcmp(name, "TETRIS") == 0)
+
+It worked. The problem is solved. So, I went to the next stage.
+
+The drafts I wrote, I started to copy and paste. Then, when I ran the program, I found out another problem. That is the language problem.
+
+Problem-4
+My idea was I would first make the original Russian edition and then English. But when I wrote it run it. A message came at the bottom right of my screen.
+
+Encoding Changed
+!
+The saved document contained characters
+which were illegal in the selected encoding.
+
+The file's encoding has been changed to UTF-8
+to prevent you from losing data.
+
+The program wasn't showing as I wanted. It was showing weirdly. So, I changed my plan. The English edition will be the final and main. However, both drafts will be kept as a legacy. So, the problem is solved.
+
+So, I started copying and pasting the line. In some places, I had to use code like - YOUR LEVEL?  (0-9), YOUR NAME?. I worked until morning (13 January 2024). The next day (13 January 2024) I finished that program. I didn't need to stay up late at night or it would become 14 January 2024 because of 12:00 AM. One thing I like to mention and that, in the original game, after the game is over it shows like this -
+
+YOUR NAME?|              <![][] .[][][][][][] .!>
+
+But I can't do like this. If do that, the cursor will move from YOUR NAME? to at the end. Like this -
+
+YOUR NAME?               <![][] .[][][][][][] .!>|
+
+So, I have kept it like this -
+
+                         <![][][][] . .[] .[][]!>
+YOUR NAME?|
+                         <![][][][][][][][] .[]!>
+
+I think this is one of the limitations of C that I understood. Later, I tried to find a solution but I understood that it was impossible. The program was finished but one problem left.
+
+Problem-5
+In the YOUR NAME? the part where the user will type the name and it will show on the scoreboard, there the problem began. I wanted the user to type the name and it will be 1-10.
+
+The code is below. I showing the specific part of the program.
+
+char scoreboard[10];
+printf(" YOUR NAME?");
+scanf("%s", &scoreboard);
+
+printf("                 NAME       LEVEL    CHECK                                       \n");
+printf("                 %s             3    2024  XX                                    \n", &scoreboard);
+
+You all can say that, man the code is okay. What's the problem?
+
+The problem is according to input the output shows different. like this -
+
+                 NAME       LEVEL    CHECK                                     
+                 US             3    2024  XX                                  
+
+                 NAME       LEVEL    CHECK                                     
+                 USER             3    2024  XX                                  
+
+I wanted to keep 3 fixed under L and 2024's first 2 under CHECK's first C. The problem is - "What function will be written in if condition that will solve that problem?". Then, I thought, as I couldn't solve this problem, let it keep like it. I give up hope. Then, I thought I would ask my teacher (Forhad Sir, he is my favorite ICT teacher.) about it. I talked to him many times but couldn't find the answer (I didn't tell him about the whole program, just a specific topic so that he wouldn't understand that I was making this big program.). He told me to array but I already had included it. I didn't understand what he meant. I also made another idea that if I use multiple else if statements I will keep space like that but again the same problem - "What function will be written in the if condition that will solve that problem?". On 21 January 2024, I told him the problem again and told him that I used the array already. He told me that, there is a function called "strlen". You can try that out. At that time, I thought it could be a solution. Then I came home and saw that this function-related program was already written in my ICT textbook of college from NCTB (National Curriculum and Textbook Board, Bangladesh). I laughed at myself and told him the next day "Sir, there is already a program in the book about the function you told." He said, "What can you do?...". I didn't hear what he told me further as I rushed to my classroom. On, 24 January, 2024 I tried to take help from my ICT book. I tested that and I succeeded. Finally, there is no bug. This problem's solution was not the internet rather my teacher (Forhad Sir) and my ICT book.
+
+The name of the program was also changed from "Tetris® E60" to "Tetris® Electronika 60 '24" because I noticed that after the release of the Tetris™ movie, the special version of the original was released on the web on 5 April 2023 as I told you all before. The name was "Tetris® E60". So, I need to change that name. So, I thought what name I will give instead? Then, I thought let's keep this simple. So, I give the name "Tetris® Electronika 60 '24" to keep the name simple.
+
+Then, on 27 January 2024 in the afternoon, I thought would write this whole journey like a story and name it "Behind the Scenes". Then, I thought, the username limit was 10, and the scoreboard limit was 10. I will increase the username limit from 10 to 15 and the scoreboard limit from 10 to 15. I increased it. But at that time I faced another new problem in the beginning part of the program.
+
+Final Problem
+If I show the output then you all will understand.
+I was expecting this -
+
+Welcome
+
+Electronika 60
+Copyright 1978 Ministry of the Electronics Industry (Soviet Union). All Rights Reserved.
+
+RT-11 V05.3
+
+Username: hgfyrousnhQ
+Welcome, hgfyrousnh
+
+Just type out its name!
+Note: Use capital only.
+Input: |
+
+But it was showing this instead -
+
+Welcome
+
+Electronika 60
+Copyright 1978 Ministry of the Electronics Industry (Soviet Union). All Rights Reserved.
+
+RT-11 V05.3
+
+Username: hgfyrousnhQ
+Welcome, hgfyrousnh
+
+Just type out its name!
+Note: Use capital only.
+Input:
+?Error-File not found MX1.SAV
+
+Just type out its name!
+Note: Use capital only.
+Input: |
+
+I thought the problems were over but not yet. Today (28 January 2024) in the evening, I thought, I had ChatGPT. I can tell you about it. So, chatted with ChatGPT. After a few moments, I found the solution.
+
+I'm showing some parts to make the story short. Also, I like to mention that, I also kept the username limit from 10 to 15 and the scoreboard limit of 10. I didn't change the limit of the scoreboard because if I keep it like that, then it will not look better.
+
+My code (in the beginning part of the program):
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <windows.h>
+#include <string.h>
+
+
+int main()
+{
+char user[10];
+printf(" Username: ");
+scanf("%10s", &user);
+printf(" Welcome, %s", user);
+
+printf(" \n\n");
+
+char name[6];
+for(;;)
+{
+  printf(" Just type out its name!\n");
+  printf(" Note: Use capital only.\n");
+  printf(" Input: ");
+  scanf("%6s", &name);
+
+if(strcmp(name, "TETRIS") == 0)
+//...
+}
+
+ChatGPT code (in the beginning of the program):
+
+It's included in the present C file.
+
+So, finally, all the problems are over. So, this is the story behind this big project. For the experts, this program will look simple and small. But, as a beginner in programming and C language, this was a big project.
+
+
+[
+03.02.24 (02:40 PM - 03:46 PM)
+
+
+[N.B.: The writings inside this third bracket are the updates. Before and after this third brackets are written before (27.01.24 - 28.01.24) and edited on 28.01.24 and 29.01.24 for any grammatical mistakes. The last sentence of the last line "I have become ... Loop" - hereafter Loop word "in C Programming" is added today (03.02.24) to make it more clear.]
+
+One thing I forgot to mention that is- I also wanted to add the effect of retro computers like "Electronika 60" at the time of developing this program (I mean in the beginning.). If you watch the video of the original game, you will see that, after the title screen every line of the game comes after 1 second (or less than one second). I wanted that thing in my program. I searched on the internet for solutions and found it but it wasn't working in my program as I wanted. So, I ditched that idea. That's why I didn't mention it when I was writing this "Behind the Scenes".
+
+Now, you will ask why I'm mentioning this now after finishing "Behind the Scenes". Now I will tell you why. It's because yesterday (02.02.24) at 09:50 PM (approximately) I thought about it again and asked myself if I could use ChatGPT again to get any solution. I found the solution but learned that the "sleep" and "usleep" functions (I had learned the "sleep" function before when I was searching on the internet.) are platform-specific. Like either for Windows or for Unix-like systems (Linux & macOS). Then I asked for a "universal" solution to ChatGPT. Then, I found the solution which was looking too complicated to me. Then, I asked for an easier solution. Then, I found out that was still complicated for me. Then, finally, I decided that "I am ditching/canceling that idea totally. I will not edit my program further." Anyways, that's why I adding these updates to this "Behind the Scenes".
+
+I also want to mention that I used ChatGPT for the first time when developing this program. I have never used ChatGPT before (I think).
+
+One thing I always try to maintain and that is simplicity. I made a tag or line (I don't remember when exactly) and always say this to everyone and my elder sister -
+"Simplicity is the best way to introduce yourself."
+
+
+11.02.24 (01:40 AM - 02:18 AM)
+
+
+I didn't mention one problem that I thought didn't matter but solved it by taking help from ChatGPT. The problem was "twice pressing the Enter key". After typing the username, and pressing the Enter key twice appears the "Just type out its name!". It should be once.
+
+So, today (10.02.24 at approximately 11:34 PM) I took help from ChatGPT and was trying to solve it. When solving the problem I faced that old username limit again. I also found out that by typing more words after the TETRIS word, the error doesn't show. Then, after tries and errors, I got the solution from ChatGPT I guess approximately 25 or 30 minutes ago. Now, the username limit and pressing the Enter key twice both problems are solved equally. Plus, new things were also added. If the user types more after the TETRIS word then the error message will also show to the user too. Seriously, After completing the program a few days ago, these minor issues remained. But now, I guess, there is no problem left.
+]
+
+
+Lesson
+What lesson did I take from my program? If you want to make a new thing, you will face many problems but you will not stop and don't give up until the completion and success.
+
+Thanksgiving & Credits
+Firstly, I like to thank Andrey Krasnov (andykras) and Eugene Tiurin (ytiurin) because I took help from their images in the text.
+Then, I like to thank Sergei Frolov and the Old Classic Retro Gaming YouTube channel because I took help from their videos.
+Then, I like to mention the Wikipedia page of Tetris®.
+Then, I also like to thank my college teachers (Anisul Sir & Forhad Sir) for their help. Then, lastly, I also like to mention ChatGPT 3.5.
+
+This program was created for my elder sister as a birthday gift on her birthday this year and also a tribute to Alexey Pajitnov. He said that we can call him Mr. Tetris. For me, I will call him -
+"The Creator of Tetris®"
+"Mr. Tetris®"
+"The Father of Tetris®"
+I am thankful to him for creating this awesome game.
+
+[
+[N.B.: The sentences inside this third bracket are added today (17.02.24 (11:55 PM - 12:16 PM (18.02.24))) and "him" changed "to them" in the sentence "One thing I want ... make up."" below because of adding these sentences inside this third bracket.]
+
+I also want to tribute Henk Rogers beside him (Alexey Pajitnov) because he is the business guy behind Tetris® and he kept Tetris® alive for all these years. He said that we can call him Dr. Tetris®. For me, I will call him -
+"The Keeper of Tetris®"
+"Dr. Tetris®"
+"The Savior of Tetris®"
+I am also thankful to him for keeping this awesome game alive all around the world.
+]
+
+One thing I want to say from the movie to express my appreciation and gratitude for them -
+"The game you couldn't put down. The story you couldn't make up."
+
+So, this is the story of "Tetris® Electronika 60 '24". I am really happy about this. I will never forget this. I have become a fan of Loop in C Programming.
+
+The End
+
+
+© 2024 Julian Leon Baroi. All rights reserved.
