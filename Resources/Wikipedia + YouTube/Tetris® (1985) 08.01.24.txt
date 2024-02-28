@@ -1,0 +1,115 @@
+Tetris®
+1985
+Alexey Pajitnov
+Link: https://en.wikipedia.org/wiki/Tetris
+
+The first version of Tetris, completed in 1985, run on an emulator of the Electronika 60!
+The screenshot of the very first version of Tetris game.png
+Alexey Pajitnov - tetrisconcept.net
+Link: https://en.wikipedia.org/wiki/Tetris#/media/File:Tetris-VeryFirstVersion.png
+
+
+Andrey Krasnov (andykras)
+Link: https://github.com/andykras
+OT60
+Link: https://github.com/andykras/OT60
+
+#Original Tetris from Elektronika 60#
+
+This is my clone of original tetris from Elektronika 60 written on C#. The purpose of this exercise is to learn design patterns. It's absolutely free to share and non-commercial.
+
+I've tried to implement game engine for general case. It manipulates abstract game objects and didn't know anything about how to render the same. I've made default implementation for console graphics and for tetris blocks as I remember from my DVK2 machine.
+
+##Here is an example:##
+
+ПОЛНЫХ СТРОК:  3        <! . . . . . . . . . .!>
+УРОВЕНЬ:       7        <! . . . . . . . . . .!>   7: НАЛЕВО   9: НАПРАВО
+  СЧЕТ:  417            <! . . . . . . . . . .!>        8:ПОВОРОТ
+                        <! . . . . . . . . . .!>   4:УСКОРИТЬ  5:СБРОСИТЬ
+                        <! . . . . . . . . . .!>   1: ПОКАЗАТЬ  СЛЕДУЮЩУЮ
+                        <! . . . . . . . . . .!>   0:  СТЕРЕТЬ ЭТОТ ТЕКСТ
+                        <! . . . . . . . . . .!>     ПРОБЕЛ - СБРОСИТЬ
+                        <! . . . . . . . . . .!>
+                        <! . . . . . . . . . .!>
+                        <! . . . . . . . . . .!>
+               [][][][] <! . . . . . . . . . .!>
+                        <! . . . . . . . . . .!>
+                        <! . . . . . . . . . .!>
+                        <! .[][] . . . . . . .!>
+                        <! . .[] . . . . . . .!>
+                        <! . .[] . . . . . . .!>
+                        <! . . . . . . . . . .!>
+                        <! . . . . . . . . . .!>
+                        <! . . .[] . . . . . .!>
+                        <! . .[][][] . . . . .!>
+                        <!====================!>
+                          \/\/\/\/\/\/\/\/\/\/
+You can easily implement any stuff you want - different console blocks, different graphics system, different numbers of squares - for example Pentomino, and others.
+
+Code is a poetry
+
+
+Eugene Tiurin (ytiurin)
+Link: https://github.com/ytiurin
+tetris
+Link: https://github.com/ytiurin/tetris
+
+I made this small project to simulate the original 1984 version of TETRIS game. I saw a Youtube video showing the gameplay of this classic run on DVK-2 computer and thought I could implement it in browser and have some fun in the process.
+
+To make it look similar to the old game, I made it entirely text based, meaning that every frame of the game animation is rendered into a string of text with 25 rows of 80 chars and looks like this:
+
+
+ROWS HIT:             11    ‹! . . . . . . . . . .!›                            
+SCORE:               980    ‹! . . . . . . . . . .!›      UP ARROW: ROTATE      
+LEVEL:                 2    ‹! . . . . . . . . . .!›    DOWN ARROW: SOFT DROP   
+                            ‹! . . . .▮▮ . . . . .!›      SPACEBAR: HARD DROP   
+                            ‹! . . . .▮▮▮▮ . . . .!›        ESC, P: PAUSE       
+                            ‹! . . . .▮▮ . . . . .!›                            
+                            ‹! . . . . . . . . . .!›                            
+                            ‹! . . . . . . . . . .!›                            
+                            ‹! . . . . . . . . . .!›                            
+                            ‹! . . . . . . . . . .!›                            
+                    ▮▮▮▮▮▮▮▮‹! . . . . . . . . . .!›                            
+                            ‹! . . . . . . . . . .!›                            
+                            ‹! . . . . . . . . . .!›                            
+                            ‹! . . . . . . . . . .!›                            
+                            ‹! . . . . . . . . . .!›                            
+                            ‹! . . . . . . . . . .!›                            
+                            ‹! . . . . . . . . . .!›                            
+                            ‹! . . . . . . .▮▮▮▮▮▮!›                            
+                            ‹!▮▮▮▮ . . .▮▮ .▮▮▮▮▮▮!›                            
+                            ‹!▮▮▮▮ .▮▮▮▮▮▮▮▮▮▮▮▮▮▮!›                            
+                            ‹!====================!›                            
+                              \/\/\/\/\/\/\/\/\/\/                              
+
+Basic setup code:
+
+TETRIS.on({
+  nextFrame: function( frame ) {
+    // replace HTML special chars
+    frame = frame.replace( /[ <>]|\n\r/g, function( m ) { return {
+      " ": "&nbsp;",
+      "<" : "&lsaquo;",
+      ">" : "&rsaquo;",
+      "\n\r" : "<br>" }[ m ] })
+
+    document.body.innerHTML = frame
+  }
+})
+
+addEventListener( "keydown", function( e ) {
+  TETRIS.pressKey( e.keyCode )
+})
+Check the play.js for more advanced code.
+
+
+Tetris®
+Link: https://tetris.com/
+
+Tetris ® & © 1985~2024 Tetris Holding.
+Tetris logos, Tetris theme song and Tetriminos are trademarks of Tetris Holding.
+The Tetris trade dress is owned by Tetris Holding. Licensed to The Tetris Company.
+Tetris Game Design by Alexey Pajitnov.
+Tetris Logo Design by Roger Dean.
+All Rights Reserved.
+All other trademarks are the property of their respective owners.
