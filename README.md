@@ -45,7 +45,8 @@
   Release Date: 27.02.24
 </p>
 <p>
-  [N.B.: PLEASE, DO NOT COPY. You can take inspiration and make your own.]
+  [N.B.: PLEASE, DO NOT COPY. You can take inspiration and make your own. This "Tetris® Electronika 60 Emulation - Old Classic Retro Gaming" video here in the Resources (inside GitHub) 
+  is the compressed version of the original video (I compressed it because of the 25 MB limit.). The original file is included in the zip file at Releases.]
 </p>   
 <br>
 <p>
