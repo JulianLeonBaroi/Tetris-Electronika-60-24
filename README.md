@@ -4,7 +4,7 @@
   <h2> About </h2>
   Alexey Pajitnov called this game “Tetris®,” a combination of “tetra” (the Greek word meaning “four”) and “tennis” (his favorite sport). This program is a tribute to
   <a href = "https://en.wikipedia.org/wiki/Alexey_Pajitnov">Alexey Pajitnov</a> and <a href = "https://en.wikipedia.org/wiki/Henk_Rogers">Henk Rogers</a>. Besides this, It was created 
-  to give this to my elder sister as her birthday gift on her birthday.
+  to give this to my elder sister as her birthday gift on her birthday. It was my second personal project.
 </p>
 <p>
   Watch the official movie of this game - Tetris™ on <a href = "https://tv.apple.com/us/movie/tetris/umc.cmc.4evmgcam356pzgxs2l7a18d7b">Apple TV+</a>. Before that, I suggest you to watch 
