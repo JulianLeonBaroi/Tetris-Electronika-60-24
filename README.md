@@ -9,8 +9,9 @@
 <p>
   Watch the official movie of this game - Tetris™ on <a href = "https://tv.apple.com/us/movie/tetris/umc.cmc.4evmgcam356pzgxs2l7a18d7b">Apple TV+</a>. Before that, I suggest you to watch 
   "<a href = "https://youtu.be/_fQtxKmgJC8?si=krlQru6XOqgcrABq">The Story of Tetris®</a>" from the <a href = "https://www.youtube.com/@GamingHistorian">Gaming Historian</a> channel. It 
-  will help you to understand the movie. Besides this, follow the official <a href = "https://tetris.com/">website</a> of Tetris® for news and updates from <a href = 
-  "https://en.wikipedia.org/wiki/The_Tetris_Company">The Tetris Company</a> and other/s.
+  will help you to understand the movie. Besides this, follow the official <a href = "https://tetris.com">website</a> of Tetris® for news and updates from <a href = 
+  "https://en.wikipedia.org/wiki/The_Tetris_Company">The Tetris Company</a> and other/s. Also, try out <a href = "https://tetris.com/tetris-e60/">Tetris®</a> E60 on the official website 
+  of Tetris®.
 </p>
 <p>
   Don't forget to celebrate "World Tetris Day" every year on June 6<sup>th</sup>. One of the greatest early video games is turning 40 years old this year (2024).
@@ -24,8 +25,8 @@
   2. <a href = "https://github.com/ytiurin">Eugene Tiurin</a> <br>
      His work: <a href = "https://github.com/ytiurin/tetris">tetris</a> <br>
   <b>My College Teachers</b> <br>
-  1. <a href = "https://ndc.edu.bd/faculty/14)">Anisul Sir</a> <br>
-  2. <a href = "https://ndc.edu.bd/faculty/14)">Forhad Sir</a> <br>
+  1. <a href = "https://ndc.edu.bd/faculty/14">Anisul Sir</a> <br>
+  2. <a href = "https://ndc.edu.bd/faculty/14">Forhad Sir</a> <br>
   <b>Internet Materials</b> <br>
   1. <a href = "https://en.wikipedia.org/wiki/Tetris">Tetris® Wikipedia</a> <br>
   2. <a href = "https://chat.openai.com">ChatGPT 3.5</a>
