@@ -3,7 +3,7 @@
 <p>
   <h2> About </h2>
   Alexey Pajitnov called this game "<a href = "https://en.wikipedia.org/wiki/Tetris">Tetris®</a>," a combination of "tetra" (the Greek word meaning "four") and "tennis" 
-  (his favorite sport). This program is based on the first-ever version of the game released for <a href = "https://en.wikipedia.org/wiki/Electronika_60">Electronika 
+  (his favorite sport). This program is based on the first version of the game released for <a href = "https://en.wikipedia.org/wiki/Electronika_60">Electronika 
   60</a> in 1985 (USSR). This program is a tribute to
   <a href = "https://en.wikipedia.org/wiki/Alexey_Pajitnov">Alexey Pajitnov</a> and <a href = "https://en.wikipedia.org/wiki/Henk_Rogers">Henk 
   Rogers</a>. Besides this, It was created to give this to my elder sister as her birthday gift on her birthday. It was my second personal project.
