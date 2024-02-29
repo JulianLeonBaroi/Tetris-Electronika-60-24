@@ -2,7 +2,7 @@
 ![Tetris® Logo Design by Roger Dean](https://github.com/JulianLeonBaroi/Tetris-Electronika-60-24/assets/160746860/a090bb33-cc15-4956-9d03-4c3bc2506cce)
 <p>
   <h2> About </h2>
-  Alexey Pajitnov called this game "<a href = "https://en.wikipedia.org/wiki/Tetris" target = "_blank">Tetris®</a>," a combination of "tetra" (the Greek word meaning "four") and "tennis" 
+  Alexey Pajitnov called this game "<a href = "https://en.wikipedia.org/wiki/Tetris" target="_blank">Tetris®</a>," a combination of "tetra" (the Greek word meaning "four") and "tennis" 
   (his favorite sport). This program is based on the first-ever version of the game released for <a href = "https://en.wikipedia.org/wiki/Electronika_60" target = "_blank">Electronika 
   60</a> in 1985 (USSR). This program is a tribute to
   <a href = "https://en.wikipedia.org/wiki/Alexey_Pajitnov" target = "_blank">Alexey Pajitnov</a> and <a href = "https://en.wikipedia.org/wiki/Henk_Rogers" target = "_blank">Henk 
