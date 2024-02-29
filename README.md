@@ -1,5 +1,5 @@
 # Tetris® Electronika 60 '24
-![social-preview](https://github.com/JulianLeonBaroi/Tetris-Electronika-60-24/assets/160746860/0c4c5372-9bcd-4613-90c4-43f235fc126c)
+![Tetris® 35th Anniversary Redesign Logo](https://github.com/JulianLeonBaroi/Tetris-Electronika-60-24/assets/160746860/5f2d9337-e4ea-4788-afed-c0102f0c0cfe)
 <p>
   <h2> About </h2>
   Alexey Pajitnov called this game "<a href = "https://en.wikipedia.org/wiki/Tetris">Tetris®</a>," a combination of "tetra" (the Greek word meaning "four") and "tennis" 
