@@ -9,8 +9,8 @@
   Rogers</a>. Besides this, It was created to give this to my elder sister as her birthday gift on her birthday. It was my second personal project.
 </p>
 <p>
-  Watch the official movie of this game - Tetris™ on <a href = 
-  "https://tv.apple.com/us/movie/tetris/umc.cmc.4evmgcam356pzgxs2l7a18d7b" target = "_blank">Apple TV+</a>. Before that, I suggest you to watch 
+  Watch the official movie of this game - <a href = "https://tv.apple.com/us/movie/tetris/umc.cmc.4evmgcam356pzgxs2l7a18d7b" target = "_blank">Tetris™</a> on Apple TV+. Before that, I 
+  suggest you to watch 
   "<a href = "https://youtu.be/_fQtxKmgJC8?si=krlQru6XOqgcrABq" target = "_blank">The Story of Tetris®</a>" from 
   the <a href = "https://www.youtube.com/@GamingHistorian" target = "_blank">Gaming Historian</a> channel. It will help you to understand the movie. Then, watch
   the "<a href = "https://www.youtube.com/watch?v=6YhkkyXydNI" target = "_blank">Unsolved Tetris Mysteries</a> video from the 
