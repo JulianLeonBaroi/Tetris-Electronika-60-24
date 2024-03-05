@@ -16,7 +16,7 @@
   suggest you to watch 
   "<a href = "https://youtu.be/_fQtxKmgJC8?si=krlQru6XOqgcrABq">The Story of Tetris®</a>" from 
   the <a href = "https://www.youtube.com/@GamingHistorian">Gaming Historian</a> channel. Also, read
-  the <a href = "https://tetris.com/history-of-tetris">History of Tetris®</a> from the official website of Tetris®. These will help you to understand the movie. Then, you can watch
+  the "<a href = "https://tetris.com/history-of-tetris">History of Tetris®</a>" from the official website of Tetris®. These will help you to understand the movie. Then, you can watch
   the "<a href = "https://www.youtube.com/watch?v=6YhkkyXydNI">Unsolved Tetris® Mysteries</a>" video from the 
   <a href = "https://www.youtube.com/@arstechnica">Ars Technica</a> channel if you are interested. Besides this, follow the official <a href = "https://tetris.com">website</a> of Tetris® 
   for news and updates from <a href = "https://en.wikipedia.org/wiki/The_Tetris_Company">The Tetris Company</a> and other/s. Then, you can try out
