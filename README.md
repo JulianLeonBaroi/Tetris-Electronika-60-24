@@ -20,7 +20,7 @@
   the "<a href = "https://www.youtube.com/watch?v=6YhkkyXydNI">Unsolved Tetris® Mysteries</a>" video from the 
   <a href = "https://www.youtube.com/@arstechnica">Ars Technica</a> channel if you are interested. Besides this, follow the official <a href = "https://tetris.com">website</a> of Tetris® 
   for news and updates from <a href = "https://en.wikipedia.org/wiki/The_Tetris_Company">The Tetris Company</a> and other/s. Then, you can try out
-  the <a href = "https://tetris.com/tetris-e60/">Tetris® E60</a> on the official website of Tetris®.
+  the "<a href = "https://tetris.com/tetris-e60/">Tetris® E60</a>" on the official website of Tetris®.
 </p>
 <p>
   <b>The game you couldn't put down. The story you couldn't make up.</b>
