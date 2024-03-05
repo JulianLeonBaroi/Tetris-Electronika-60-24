@@ -1,7 +1,7 @@
 # Tetris® Electronika 60 '24
 ![Tetris® 35th Anniversary Redesign Logo](https://github.com/JulianLeonBaroi/Tetris-Electronika-60-24/assets/160746860/4a430d23-8c4e-4852-8e51-7609534d713f)
 <p align = "center">
-  Tetris® 35<sup>th</sup> Anniversary Redesign Logo
+  Tetris® 35th Anniversary Redesign Logo
 </p>
 <p>
   <h2> About </h2>
@@ -18,7 +18,7 @@
   the <a href = "https://www.youtube.com/@GamingHistorian">Gaming Historian</a> channel. Also, read
   the "<a href = "https://tetris.com/history-of-tetris">History of Tetris®</a>" from the official website of Tetris®. These will help you to understand the movie. Then, you can watch
   the "<a href = "https://www.youtube.com/watch?v=6YhkkyXydNI">Unsolved Tetris® Mysteries</a>" video from the 
-  <a href = "https://www.youtube.com/@arstechnica">Ars Technica</a> channel if you are interested. Besides this, follow the official <a href = "https://tetris.com">website</a> of Tetris® 
+  <a href = "https://www.youtube.com/@arstechnica">Ars Technica</a> channel if you are interested. Besides this, follow the <a href = "https://tetris.com">official website</a> of Tetris® 
   for news and updates from <a href = "https://en.wikipedia.org/wiki/The_Tetris_Company">The Tetris Company</a> and other/s. Then, you can try out
   the "<a href = "https://tetris.com/tetris-e60/">Tetris® E60</a>" on the official website of Tetris®.
 </p>
@@ -28,6 +28,8 @@
 <p>
   Don't forget to celebrate "World Tetris Day" every year on June 6<sup>th</sup>. One of the greatest early video games is turning 40 years old this year (2024).
 </p>
+<p>
+  [N.B.: If you are also interested in knowing the <a href = "https://tinyurl.com/2s3nykuh">Tetris® Logo</a> history, then you can also check that out.]
 <p>
   <h2> Credits </h2>
   I want to thank those people from whom I had taken help or used their resources. I also want to mention internet materials.<br>
