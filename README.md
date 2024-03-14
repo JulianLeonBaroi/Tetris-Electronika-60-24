@@ -20,7 +20,7 @@
   the "<a href = "https://www.youtube.com/watch?v=6YhkkyXydNI">Unsolved Tetris® Mysteries</a>" video from the 
   <a href = "https://www.youtube.com/@arstechnica">Ars Technica</a> channel if you are interested. Besides this, follow the <a href = "https://tetris.com">official website</a> of Tetris® 
   for news and updates from <a href = "https://en.wikipedia.org/wiki/The_Tetris_Company">The Tetris Company</a> and other/s. Then, you can try out
-  the "<a href = "https://tetris.com/tetris-e60/">Tetris® E60</a>" on the official website of Tetris®.
+  the "<a href = "https://tetris.com/tetris-e60/">Tetris® E60</a>" on the official website of Tetris®. 
 </p>
 <p>
   <b>The game you couldn't put down. The story you couldn't make up.</b>
@@ -29,7 +29,8 @@
   Don't forget to celebrate "World Tetris Day" every year on June 6<sup>th</sup>. One of the greatest early video games is turning 40 years old this year (2024).
 </p>
 <p>
-  [N.B.: If you are also interested in knowing the <a href = "https://tinyurl.com/2s3nykuh">Tetris® Logo</a> history, then you can also check that out.]
+  [N.B.: If you are also interested in knowing the <a href = "https://tinyurl.com/2s3nykuh">Tetris® Logo</a> history, then you can also check that out. The 
+  <a href = "https://tetris.wiki/Tetris_E60">wiki page</a> of Tetris® E60 is also given.]
 <p>
   <h2> Credits </h2>
   I want to thank those people from whom I had taken help or used their resources. I also want to mention internet materials.<br>
